@@ -34,6 +34,6 @@ The solution of the first challenge includes:
 ## 🧑‍💻 Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ANN-DL-Challenges.git
+   git clone https://github.com/federicocaroli/ANN-DL-Challenges.git
    ```
 2. Explore the notebooks for detailed implementations and results.
