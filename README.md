@@ -1,6 +1,6 @@
 # Artificial Neural Networks and Deep Learning Challenges - PoliMi
 
-This repository contains the solutions and code for challenges completed as part of the **Artificial Neural Networks and Deep Learning** course at the **Polytechnic University of Milan** in dic, 2023.
+This repository contains the solutions and code for challenges completed as part of the **Artificial Neural Networks and Deep Learning** course at the **Polytechnic University of Milan**.
 
 ## 📚 Overview
 The challenges, completed between **September and December 2023**, primarily focus on designing, training, and evaluating deep learning models to solve real-world problems, such as binary classification tasks.
