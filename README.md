@@ -62,7 +62,7 @@ In this challenge, the task was to predict future samples of uncorrelated time s
 2. Explore the notebooks for detailed implementations and results.
 
 ## 📝 License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
